@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OptiCrop AI</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="card">
+
+        <h1>🌱 OptiCrop AI</h1>
+        <p>Smart Crop Recommendation System</p>
+
+        <div class="grid">
+
+            <input id="N" placeholder="Nitrogen (N)">
+            <input id="P" placeholder="Phosphorus (P)">
+            <input id="K" placeholder="Potassium (K)">
+
+            <input id="temperature" placeholder="Temperature (°C)">
+            <input id="humidity" placeholder="Humidity (%)">
+            <input id="ph" placeholder="pH Value">
+            <input id="rainfall" placeholder="Rainfall (mm)">
+
+        </div>
+
+        <button onclick="predictCrop()">Predict Crop 🚀</button>
+
+        <div id="result"></div>
+
+    </div>
+
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
