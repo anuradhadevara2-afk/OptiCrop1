@@ -271,13 +271,13 @@ The project was tested using various soil and weather combinations.
 
 Demo Video Link:
 
-https://youtu.be/YOUR_VIDEO_LINK
+https://youtu.be/ftyBOX059p0
 
 ---
 
 ## 🔗 GitHub Repository
 
-
+https://github.com/anuradhadevara2-afk/OptiCrop1
 
 ---
 
